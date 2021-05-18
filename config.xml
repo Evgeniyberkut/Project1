@@ -5,7 +5,7 @@
         A sample Apache Cordova application project.
     </description>
     <author email="johnnybrut@icloud.com" href="http://cordova.io">
-evgen team    </author>
+        evgen team    </author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
